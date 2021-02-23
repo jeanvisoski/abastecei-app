@@ -21,11 +21,11 @@ O Mysql foi utilizado pois é agil para pequenas aplicações e podemos utilizar
 ### Instalação
 
 ```sh
-$ git clone https://github.com/jeanvisoski/abastecei-app.git
-$ cd votacao-pauta
+$ git clone https://github.com/jeanvisoski/abasteceai-app.git
+$ cd abasteceai-app
 $ mvn package
 $ cd target
-$ java -jar votacao-pauta.jar
+$ java -jar abasteceai-app.jar
 ```
 #### Swagger
 
